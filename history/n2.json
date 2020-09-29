@@ -1,0 +1,76 @@
+{
+  "németOrszág": [
+    "1918: fegyverszünet",
+    "1918: békekötés",
+    "1918: Weimari köztársaság",
+    "1919: Spartacus-felkelés",
+    "1920: Kapp-puccs",
+    "1923: Ruhr-vidék",
+    "1923: Sörpuccs",
+    "hiperinfláció",
+    "Sztrájkok",
+    "Dawes-terv"
+  ],
+  "miTörténikAzUSA-ban": {
+    "Oroszlánrész": [
+      "Békekötés",
+      "1920-ra vége",
+      "Amerika befelé fordul",
+      "Túl sok pénz volt belefordítva",
+      "1921től Republikáns elnök lesz",
+      "Republikánus váltás"
+    ],
+    "Belpolitika": [
+      "1921-től republikánus elnök"
+    ],
+    "Befelé fordulás": [
+      "Kifelé csak üzlet",
+      "Amerikának csak az üzlet számít",
+      "Nem jókedvből segít",
+      "Amerika izonacialista lesz",
+      {
+        "Miben látszik meg?": [
+          "Kvóták vannak, hogy ki jöhet be",
+          "Behozatali vámok",
+          "Félelem a vörösöktől (Bolsevizmus)",
+          "Erősödő rasszizmus",
+          "Ku-Klux-klán erősödik",
+          "Puritán erkölcsök megerősítése",
+          "1920tól senki nem ihat alkoholt",
+          "Vallási oktatás megerősítése",
+          "Gengszterizmus"
+        ]
+      },
+      {
+        "Társadalmi változás": [
+          "Farmer gazdaság visszaszorulása",
+          "Iparból szolgáltatás lesz",
+          "Szolgáltatásokat nyújtanak az Ipar ágban",
+          "Nő a munkások száma (aki a kezével)",
+          "Csökken a vezető száma (aki az eszével keresi a pénzt)"
+        ]
+      },
+      {
+        "Életmód": [
+          "Alvó városok",
+          "Gettósodás",
+          {
+            "újSzabadidőLehetőségek": [
+              "Mozi",
+              "Fillmek",
+              "Walt Disney",
+              "Képregény",
+              "Jazz / Swing"
+            ]
+          },
+          "Szabadosabb viselkedés"
+        ]
+      },
+      {
+        "Gazdaság": [
+          "Rossz állapotban van"
+        ]
+      }
+    ]
+  }
+}

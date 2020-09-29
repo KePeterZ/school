@@ -1,0 +1,48 @@
+{
+  "Németország": {
+    "Államforma": [
+      "Köztársaság",
+      "Föderatív állam"
+    ],
+    "Kormányt alapítanak": "Szociál demokraták"
+  },
+  "Problémák": [
+    "Áruhiány",
+    "Jóvátétel",
+    {
+      "Ruhr-vidék": "Általános sztrájk"
+    },
+    "Pénz érkezik Amerikából, ezzel kifizetik a Francia hiteleket",
+    {
+      "Infláció": [
+        "Új monetáris rendszer",
+        "Elértéktelenedik a pénz",
+        "Milliárd számra vannak a márkák"
+      ]
+    },
+    {
+      "Politikai problémák": {
+        "Spartacus felkelés": [
+          "1918",
+          "Szélső baloldali felkelés"
+        ],
+        "Béke aláírása": [
+          "Utcán tiltakoznak"
+        ],
+        "2 szélső jobb kísérlet": {
+          "Kapp-Puccs": [
+            "1920"
+          ],
+          "Sör-puccs": {
+            "Mikor volt": "1923",
+            "NSDAP": [
+              "Nemzeti Szocialista Német Munkás Párt",
+              "Adolf Hitler",
+              "Hitler börtönbe megy"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kiindulás": {
+    "fontosDolgok": [
+      "Győztes / Vesztes",
+      "Békében valami meghagyás van",
+      "Politikai hagyományok"
+    ]
+  },
+  "kétTípusúÁllam": {
+    "demokráciák": [
+      "Nem államforma függő",
+      "Kialakul az általános választójog",
+      {
+        "Nőknek választójog": [
+          "Nagyban eltér a férfiakétól"
+        ]
+      }
+    ],
+    "diktatúrák": {
+      "tekintélyElviDiktatúra": [
+        "Hatalmon lévő politikai erők maradjanak hatalmon"
+      ],
+      "totálisDiktatúra": [
+        "Mindent ellenőrizni kell",
+        {
+          "szélsőBal": [
+            "Proletár diktatúra",
+            "Ez a bolsevik diktatúra",
+            "Ezt fogja átalakítani Sztálin",
+            "Ebből lesz a Sztálini diktatúra"
+          ],
+          "szélsőJobb": {
+            "Fasizmus": [
+              "20as évek",
+              "Olaszország"
+            ],
+            "Nácizmus": [
+              "Nemzetiszocializmus",
+              "30as évek",
+              {
+                "Németország": [
+                  "9 millió áldozat",
+                  "Kártérítést akarnak a háború pusztításaiért",
+                  "Jovátételt akarnak",
+                  "Több országban fellángol a forradalom",
+                  "Szociál demokraták győznek",
+                  ""
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
