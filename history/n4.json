@@ -1,0 +1,57 @@
+{
+  "hatalmonAfasiszták": [
+    "1924-ben megnyerték a választásokat saját feltételekkel",
+    "Matteo kétségbe vonta a választás eredményét; megölték",
+    "Ezután Mussolini teljes diktatúra kiépítését kezdi el",
+    "megtisztították a hivatalnoki réteget",
+    "feloszlatták a többi pártot",
+    "Titkos rendőrséget hoztak létre, korlátozzák a sajtót",
+    "Képviselő csak az lehetett, akit a fasiszták javasoltak",
+    "Parlamentet lecseréli a pártállam csúcsszerve",
+    "Szakszervezetek kiiktatják, egyházat megnyerik",
+    "Korporációkkal szakszervezetek nem lesznek",
+    "1929-ben lateráni egyezménnyel megnyerik az egyházat",
+    "Katolicizmus állam vallás lesz",
+    "Iskolában kötelező lesz a vallásoktatás",
+    "Agresszív külpolitikai céljaik vannak",
+    "A társadalom már az álmot akarja megvalósítani, a 3. Rómát"
+  ],
+  "kérdések": {
+    "Mi a búzacsata": "Olaszország önállóvá tétele",
+    "Hatalom és egyház kapcsolata": "Kötelező vallásoktatás, kártérítés pápának",
+    "Mussolini mivel népszerűsíti magát": "Olaszország lesz a 3. Róma",
+    "Mit takar a Mare Nostrum": "MareNostrum: Our sea; Róma legyen a 20. század fő tengeri vezetője",
+    "Hogy neveli Mussolini a társadalmat": "Nagyon szigorúan, szabálybetartóra, és engedelmeskedőre"
+  },
+  "preOroszország": [
+    "Orosz-Japán háború: 1905 vereség",
+    {
+      "Forradalmak": [
+        "Polgári",
+        "Polgári demokratikus",
+        "Bolsevik"
+      ]
+    },
+    "Antant oldalon",
+    "Autokrácia: Cár uralom",
+    "Félelem a bolsevizmustól",
+    "Bolsevikok forradalmi kommunisták",
+    "Bolsevikok száműzetésben és börtönben szoktak lenni",
+    "Cári rendszerben minden bolsevik ellenség",
+    {
+      "1905ösForradalom": [
+        "Nagy részben nők és gyerekek",
+        "Éheznek, ezért mennek az utcára"
+      ],
+      "1917esForradalom": [
+        "Februári forradalom",
+        "Lemond a Cár",
+        "Alakul egy ideiglenes kormány",
+        "Vezetője Kerenszkij",
+        "Munkahelyeken tanácsok alakulnak: szovjet",
+        "Tanácsok önszervezőőek, maguknak választanak vezetőket",
+        ""
+      ]
+    }
+  ]
+}

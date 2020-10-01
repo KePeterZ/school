@@ -1,0 +1,101 @@
+{
+  "Fasizmus": {
+    "Fasces": "vesszőnyaláb, a hatalmat jelképezi"
+  },
+  "Olaszország": {
+    "háborúUtán": [
+      "Hatalmas csalódás",
+      "Nő a munkanélküliség",
+      "Katonák is munkanélküliek lesznek",
+      "Lassan eladósodnak",
+      "1919ben csak a 36%-át fedezte a behozatalnak",
+      "Négyszeresére nő a megélhetési költség",
+      "Munkások gyárakat, parasztok földeket foglalnak el",
+      "Anarchizmus lesz",
+      "Gabriella D'Annunzio és csapata elfoglalja Fiumét",
+      "csak egy évvel később tudják csak eltávolítani"
+    ],
+    "politikaiÉlet": [
+      "Szocialista és kereszténydemokrata párt meggyengült",
+      "Gyáriparosok és földbirtokosok saját mozgalommal jelentkeznek",
+      "Front és közép harcosok megalakítják a Harci Fasciók szervezetét",
+      "Ez a terror és a megfélemlítéssel él",
+      "Támogatja őket Pirelli, FIAT",
+      "Általános választójog megerősítette a népet",
+      "Propaganda őket próbálta célozni",
+      "1921: Megalakul a Fasiszta párt",
+      "Béke és rend",
+      "1922: Vezetőjét, Bennito Mussolini miniszterelnök lesz",
+      "Koalíciós hatalom alakul ki, de a fasiszták lettek az ország vezetői."
+    ],
+    "hogyanMászhatunkKiEbből": [
+      "1925: létrejön a Fasiszta diktatúra",
+      {
+        "Lépések": {
+          "1.": "1919: D'Annzio elfoglalja Fiumét",
+          "2.": [
+            "Harci Fasciók megalakítása",
+            "(utcai harcok, Kommunizmus)"
+          ],
+          "3.": "1921: Megalakul a Nemzeti Fasiszta Párt",
+          "4.": "A párt elindul a választásokon => mandátumok",
+          "5.": "Marcia Su Róma => Menetelés rómába",
+          "6.": "1922.10.30. Király kinevezi A Párt vezetőjét miniszterelnöknek",
+          "7.": "Miniszerelnök új megszólítása => Duce",
+          "8.": "1924: Új választások, teljes győzelem kell",
+          "9.": [
+            "Csalnak, Matteo leleplezi őket, ezért megölik",
+            "Kizárják a parlamentből a nem fasisztákat"
+          ]
+        }
+      }
+    ],
+    "BenitoMussolini": [
+      "1883-ban született",
+      "Fiatal Mussolini szocialista volt",
+      "Tanító, majd újságíró, később főszerkesztő",
+      "Örült a háborúnak",
+      "1919-ben saját mozgalmát alapítja meg",
+      "Jelük: Fekete inges rohamosztagosok"
+    ],
+    "Fasizmus": [
+      "A Párt politikai ideológiája",
+      "Céljük: A Római birodalom visszaállítása",
+      "Legitimizálja a Duce hatalmát",
+      {
+        "eztHogyValósítsukMeg": {
+          "1.": "Követjük Duce-t",
+          "2.": [
+            "Betartjuk a Fasiszta 10 parancsolatot",
+            "Katona = Harc => Béke"
+          ],
+          "3.": ""
+        }
+      },
+      "Totális diktatúra, szinte lehetetlen leverni",
+      {
+        "aFasisztaÁllamMűködése": [
+          "Egypárt rendszer => Állampárt",
+          "Fasiszta nagytanács",
+          "Gyermek nevelést átveszi az állam",
+          "Állam beruházások => Autópálya építés",
+          "Fronton harcolunk",
+          "Új munkahelyek",
+          {
+            "Külpolitika": [
+              "Szerződések pl. Magyarországgal",
+              "1933-tól támadó Külpolitika"
+            ]
+          },
+          {
+            "gyerekNevelés": [
+              "Együtt nevelik a gyerekeket",
+              "Fasiszta felnőttekké",
+              "Egyenruhában nevelődnek"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
