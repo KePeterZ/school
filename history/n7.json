@@ -1,0 +1,37 @@
+{
+  "Ellenforradalom": {
+    "Rendszer": [
+      "Gondolkodás",
+      "Ideológia",
+      "Konzervatív",
+      {
+        "GondolkodásMódok": [
+          "Konzervatív",
+          "Nemzeti",
+          "Keresztény"
+        ]
+      },
+      "Antiszemitizmus",
+      "Így tudja legjobban kifejteni magát a forradalommal szemben"
+    ],
+    "Személy": [
+      "Horthy Miklós"
+    ],
+    "Kerete az egésznek": [
+      "Trianon, 1920. Június 4.",
+      "Csak Sopron környékén van népszavazás"
+    ],
+    "Ki kell találni": [
+      "Állam forma: Kormányzó",
+      {
+        "Fontos belpolitika": [
+          "Földosztás",
+          "Vitézi telkek",
+          "Feloszlatja a különítményeket",
+          "Numerus Claudus",
+          "Meg kell szilárdítani: Konszolidáció"
+        ]
+      }
+    ]
+  }
+}
