@@ -1,0 +1,67 @@
+{
+  "1920-as évek története": {
+    "Mi volt a 20as évek kiindulási pontja": [
+      "Háború lezárása",
+      "Ez vezet a békéhez",
+      "Kinek milyen célja volt a békénél",
+      "Béketeremtés menete",
+      {
+        "6 béke + 1": [
+          "Általános pontok",
+          "Egyes békéknél tudni kell",
+          "Határokat tudni kell!",
+          "Magyar Német békét részletesen"
+        ]
+      }
+    ]
+  },
+  "Hogyan tovább?": {
+    "Általában": [
+      "Gazdasági viszonyok",
+      "Nemzetközi viszonyok",
+      "Életmód és Kultúra"
+    ],
+    "Országtörténetek": {
+      "Politikai rendszerek szerint": {
+        "Demokrácia": [
+          "USA",
+          "GB",
+          "Franciaország",
+          "Németország"
+        ],
+        "Diktatúra": {
+          "Totális": {
+            "Olaszország": [
+              "Szomorú győztes",
+              "Hogyan indul",
+              "Bajok",
+              "Fasiszták diadalmenete",
+              "20ban még senkik, aztán meghatározó hatalom lesznek",
+              "Hogyan működik a Fasiszta állam"
+            ],
+            "Szovjet Oroszország": [
+              "Bolsevik hatalom",
+              "Milyen ellenségeik vannak",
+              "Proletár diktatúra harcai",
+              "Proletár állam: 1924-27"
+            ]
+          },
+          "Tekintélyelvi": [
+            "2 példa",
+            "Lengyelország",
+            "Jugoszlávia"
+          ]
+        }
+      }
+    },
+    "KeletEurópa kisállamai": [
+      "Mindent róluk"
+    ],
+    "Magyarország története": [
+      "Hogyan zárják a háborút",
+      "Hogyan marad egy hatalom",
+      "Az új rendszer",
+      "Betlhem idejében az új rendszer koszolidációja"
+    ]
+  }
+}

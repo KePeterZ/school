@@ -1,0 +1,31 @@
+{
+  "Politika": [
+    "hatalmi ágak",
+    "választójog",
+    "kormányzói jogkör",
+    "szabadságjogok"
+  ],
+  "Gazdaság": [
+    "trianoni béke hatása",
+    "szerkezetátalakítás",
+    "fejlődő iparágak",
+    "bankszféra",
+    "pengő",
+    "kölcsönök"
+  ],
+  "Kultúra, Oktatás": [
+    "kultúrfölény",
+    "stratégiai tárca",
+    "népiskolai törvény",
+    "iskolarendszer",
+    "tudományszervezés",
+    "egyetemek"
+  ],
+  "Külpolitika": [
+    "trianoni béke hatása",
+    "revízió",
+    "irredentizmus",
+    "kisantant",
+    "szövetségkeresés"
+  ]
+}
