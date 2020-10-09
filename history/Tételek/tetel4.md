@@ -1,0 +1,1 @@
+# Totális diktatúrák: Mutasd be Szovjet-Oroszország történetének alakulását és a bolsevik berendezkedést!
