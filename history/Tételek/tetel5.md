@@ -26,7 +26,7 @@ Demokratizálódás mindenhol napirendre kerül. Választójog mindenhol tágasa
 ## Gazdaság
 A világgazdaság nagyon erősen befolyásolja a kisállamok gazadságát, de ezen felül még a békék politkai változásai is hatnak. Általános lesz a _védővám_, a Monarchia egy-vámos területe __7 önálló vámterület__ lesz. 20%ról 30%ra növekedik az átlag vám. Romániában először teljes behozatali tilalom volt, aztán végül egy 40%os vám lett általános. Államok viszont nem csak ezzel állították meg az import-ot, szabályokkal, regulációkkal is nehezítettek mindent. A kirekesztett termékeket a hazai piacnak kellett pótolni, főleg a __textil, bőr, és a ruházati__ termékekben volt hiány. 
 
-## Éhezett területek
+## Éhező területek
 Nem csak iparcikkekben jelent meg az import hiánya; iparosodott területeken is agrárfejlesztésekbe kezdtek. Csehszlovákiában a búzatermelés 75%, sertésállomány pedig 40%-al növekedett. 
 
 ## Problémák ezzel
