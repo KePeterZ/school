@@ -23,3 +23,5 @@ Az új terv: __Át kell venni a hatalmat a szovjetekben.__ Csak utána lehet az 
 Jön a polgárháború, ami intervencióval végződik (külföldi csapatok beavatkoznak). Lengyelországnak elege lett, nem volt hajlandó Oroszország része maradni, ezért kelet felé elkezdték bővíteni határaikat.  
 1918-ban volt az első világháborús béke: a Breszt-Litovszki béke.  
 Oroszországban azonban folytatódtak a lázadások, amikre a kormánynak a válasza __terror, és hadikommunizmus__ volt. A hadikommunizmus megmaradt 1921 után is, amikor már vége volt a háborúnak. De Leninnek volt egy terve: __villamosítás és oktatás.__ Azt gondolta, hogy ezekkel a lépésekkel létre tud hozni egy 20. századi Proletár Diktatúrát.
+
+

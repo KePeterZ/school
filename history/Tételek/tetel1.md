@@ -1,6 +1,12 @@
 # Ismertesd a versailles-i washingtoni békerendszert!
 
+
+## Nyertesek
+
+USA, Francia, Japán, Olaszország
+
 ## Célok
+
 A háború lezárása egy fegyverszünettel kezdődött, ezeket a frontokon kötötték meg a katonai vezetők. Ezek után jöttek csak a béketárgyalások, amiknek eredményét minden ország saját parlamentjébe be kellett jegyezni. A békével kapcsolatban minden országnak voltak céljai. Franciaország a dicsőségét szerette volna helyreállítani, és a status quo-t kőbe vésni, Nagy-Britannia a németeket akarják eltörölni a tengerek sorából. Az Olaszok szerették volna az 1915ös londoni szerződés alapján megtartani a területüket, és még sok területet. Japánt igazából nem érdekelte az európai helyzet, ő csak Kínával szemben volt aggresszív, és a Kelet-Ázsiai hegemóniát szerette volna megszerezni. Az USA Távol-keleti területeket szeretne, Lengyelország a Baltitól a Fekete tengerig szerettek volna területet, Szerbia szeretné a dészláv egységet, Görögország a bizánci egységet akarja újra építeni, Csehszlovákia szlovákiával szeretne egyesülni, a Balti államok pedig elhatárolódást szeretnének a többi országtól.
 
 ## A béke konferencia
@@ -8,7 +14,7 @@ A Béke konferencia 1919 január 18-án nyílik meg, és 32 nemzet képviselteti
 
 ## A résztvevők
 A béke konferencián részt vett a __4 nagy__
-- Clemenceau (francia, miniszterelnök) 
+- Clemenceau (francia, miniszterelnök) _vezető szerep_
 - Lloyd George (anglia, miniszterelnök) 
 - Wilson (USA, elnök)
 - Orlandó (Olaszok, miniszterelnök) 
