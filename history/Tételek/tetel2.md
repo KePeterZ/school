@@ -36,3 +36,10 @@ A háború után két domináns politikai rendszer lesz: a Demokrácia, és a Di
 Nem függ az államformától. Széles választójog volt, amiből később lett az általános választójog. Kialakult a pártrendszer, ebben a Szociáldemokrata pártok nagyon népszerűek. Ugyanekkor megnőtt a munkáspártok szerepe is. 
 
 ### Diktatúra
+Két típusa van a diktatúrának ekkoriban.
+
+#### __Tekintély Elvi__
+A tekintélyelvi diktatúrában a hatalom megtartásást célozzák meg. Nincsenek választások, az ellenzék nem szólalhat meg, de sajtó szabadság van, azaz a hazában bárki mondhat bármit. Egyetlen céljuk, a hatalom megtartása.
+
+#### __Totális__
+A totális diktatúrában az állam az összes társadalmi alrendszert ellenőrzi. Vallás, civil és iskola rendszer, még a családot is. Minden megvan szabva, kivel házasodhatsz, hány gyereked lehet, azokon keresztül még ellenőriz is. Célja, hogy átformálja az embereket. Ide tartozik a Bolsevik diktatúra, és a Sztálini diktatúra. Jelenleg két szélsőjobboldali diktatúrát ismerünk, a Fasizmust, ami a 20as években jön létre Olaszországban, és a Nácizmus, ami a német szocializmus.
