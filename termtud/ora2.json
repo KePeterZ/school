@@ -1,0 +1,91 @@
+{
+  "NégyNagyCsoport": {
+    "Fehérjék": [
+      "Aminosavakból épülnek fel",
+      "Polimer vegyületek - sokrészü vegyület",
+      "Polimerizáció",
+      "Monomer => aminosavak",
+      "Peptid kötést bontja le a gyomorsav",
+      "R az oldallánc, az aposztróf at jelenti, hogy különbözhetnek",
+      "20 féle aminosav fordul elő az élő szervezetekben",
+      "Általában 100-120 aminosavból áll egy fehérje",
+      "Elsődleges szerkezet -> Aminosav sorrend",
+      "Poláros és apoláros oldalláncok",
+      "Ahol egyenletlen a töltéselosztás => Apoláros",
+      "Ahol egyelnetes => Poláros",
+      "Három féle térszerkezet: alfahélix, béteredő, globuláris",
+      {
+        "NégyFéleSzerkezet": [
+          "Aminosav sorrend",
+          "Alfa, béta, globuláris",
+          "Másodlagosok sorrendje",
+          "Láncok kapcsolódása"
+        ]
+      },
+      {
+        "MásodlagosKötések": [
+          "Kisebb energia",
+          "Ember áttudja rendezni",
+          "Tojásrántotta"
+        ]
+      },
+      "Denaturáció: Amikor átalakítjuk nem természetes állapotba",
+      "Homosztázis: belső környezet állandósága",
+      "Katalizátor: Kémiai folyamat aktiválási energiáját csökkentik, gyorsabban játszódik le a reakció",
+      "Hexokinász: Szőlőcukorra egy foszfór csoportot rak rá",
+      "Élőszervezetben lévő katalizátorok az enzimek"
+    ],
+    "Szénhidrátok": [
+      "Polialkoholok",
+      "Egy darab oxocsoport is van bennük",
+      "Glüközról beszéltünk a legtöbbet: C6-H12-O6",
+      "Glicerin - C3-H6-O3: Alkohol",
+      "Legyegyszerűbb cukor az aldotrióz",
+      {
+        "Poliszacharidok": [
+          "Cellulóz",
+          "Kitin",
+          "Glikogén",
+          "Keményítő",
+          "Pektin",
+          "Lignin"
+        ]
+      }
+    ]
+  },
+  "Lipidek": [
+    "Minden itt van, ami nem oldódik jól vízben",
+    "Foszforgliceridek",
+    "Nem fehérje anyagok is vannak bene",
+    "Foszfatidok: Képesek membránként szolgálni",
+    {
+      "Koenzimek": [
+        "ATP",
+        "Nukleotid, Adenozin-Trifoszfát",
+        "Ribóz + szervesbázis + 3 foszforsav sorban",
+        "Pirofoszfát kötés: magas energiájú kötés",
+        "Amikor leszakadnak, ATP => ADP => AMP",
+        "Mindig amikor lejátszódik a felső dolog, energia szabadul fel",
+        "Visszafele is működik, csak energiát kell belefektetni",
+        "Nagyon sok enzim használ ATP-t, ezért Koenzim a neve",
+        "NAD",
+        "Felvesz két magas energiájú hidrogént, majd leadni, ezért jó energiatároló koenzim.",
+        "Koenzim-A",
+        "Acetilcsoportot tud szállítani"
+      ],
+      "Lebontófolyamatok": [
+        "Glikolízis",
+        "Citromsav-ciklus",
+        "Terminális oxidáció",
+        "Terminális oxidáció és Citromsav-ciklus a mitokondriumban történik meg",
+        "Kiinduló molekula a szőlőcukor, 10-12 lépésben történik",
+        "Szőlőcukor => Piroszőlősav => 2ATP+2(NAD)H+H^+",
+        "Terminális oxidáció",
+        ""
+      ]
+    }
+  ],
+  "Nukleinsavak": [
+
+  ]
+}

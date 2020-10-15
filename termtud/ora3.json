@@ -1,0 +1,46 @@
+{
+  "Felépítő folyamatok": [
+    "DNS-replikáció",
+    "Fehérje-szintézis",
+    "Nukleotid => Heterociklusos szerves bázis, foszforsav, cukor",
+    "Nukleidsavban 5 kapcsolat"
+  ],
+  "Felfedezése": [
+    "Pauling",
+    "Elektronegativitást fedezte fel",
+    "Hogy néznek ki a kötések",
+    "Lehet következtetni a térbeli molekulákra",
+    "Alfehélix, Bétaredő",
+    "Nobel díjat kap a Hemoglobin kitalálásáért",
+    "Béke nobel díjat is kap, atom fegyverek leszerelése miatt",
+    "Griffin féle baktérium transzformáció",
+    "Milyen a DNS szerkezete? Ezt próbálja feltárni"
+  ],
+  "Bakteriofág": [
+    "Lipáz",
+    "Amiláz",
+    "Proteáz",
+    "Nukleáz"
+  ],
+  "Mi az élet?": [
+    "Egy előadás, kvantumfizika és biológia",
+    "Crick-et is elkezdte érdekelni",
+    "James Wattson",
+    "16 évesen fejezte be a gimnáziumot",
+    "Wilkins",
+    "Rosalyn Franklin",
+    "DNS szerkezetét próbálta feltárni",
+    "Watson és Crick két DNS szálat képzeltek el"
+  ],
+  "Reprodukció": [
+    "DNS-ről készül egy RNS másolat",
+    "Ez aztán kimegy a sejtmagból",
+    "Ez a MessengerRNS",
+    "Ezer nukleotidból áll",
+    "Emberben 3 milliárd van",
+    "mRNS",
+    "Riboszóma => Fehérje és rRNS",
+    "Transzáció: DNS-ből Fehérje kódolt információ",
+    "DNS => RNS => Fehérje => Tulajdonságok"
+  ]
+}
